@@ -1,14 +1,15 @@
 # Hello Kitty Calculator
+<img src="https://th.bing.com/th/id/OIP.JZ_UgYFJUSIutSPKyxzRkgHaHC?rs=1&pid=ImgDetMain" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 🐱 **Hello Kitty Calculator** é uma calculadora simples em Java que realiza operações de soma e subtração com um toque de fofura inspirado na Hello Kitty! 🐱
 
-## Funcionalidades
+### Funcionalidades
 
 - **Soma**: Adiciona dois números.
 - **Subtração**: Subtrai o segundo número do primeiro.
 - Mensagens interativas e personalizadas da Hello Kitty durante o uso.
 
-## Como Usar
+### Como Usar
 
 1. **Clone este repositório:**
    ```bash
